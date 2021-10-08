@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/39727166/131526299-d040afcb-92f4-425e-
 ## Running the application on your development server
 
 
-### `git clone git@github.com:anshumansinha18/Urban-Views.git`
+### `git clone https://github.com/jay1310/UrbanViews.git`
 Open terminal and run this command to create a clone of this repository.
 
 
