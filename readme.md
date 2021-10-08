@@ -20,6 +20,7 @@ Note: Switch to experimental branch to see whole project.
 
 https://user-images.githubusercontent.com/39727166/131526299-d040afcb-92f4-425e-8c10-56b5b6c724c1.mp4
 
+
 ![screencapture-localhost-3000-2021-08-31-17_53_51](https://user-images.githubusercontent.com/39727166/131526399-12848c3f-b1c2-47a0-8d98-ced654cae88c.png)
 
 
@@ -37,48 +38,7 @@ https://user-images.githubusercontent.com/39727166/131526299-d040afcb-92f4-425e-
 ![Screenshot (273)](https://user-images.githubusercontent.com/39727166/131529707-189ba23e-83f5-46f5-b45a-911029bfe607.png)
 
 
-## Running the application on your development server
+----------------------------------------------------------------------------------------------------------------------------------
 
-
-### `git clone https://github.com/jay1310/UrbanViews.git`
-Open terminal and run this command to create a clone of this repository.
-
-
-### `cd api`
-
-cd to api directory.
-
-### `npm install`
-
-Inside the client directory, run this command.
-This will install all the dependencies and packages inside api directory.
-
-
-### `.env File`
-
-Create an environment variable file inside api directory and add your MONGODB_URL and SECRET_KEY
-
-### `nodemon index.js`
-
-Connect to database
-
-
-
-### `cd client`
-
-cd to client directory.
-
-### `npm install`
-
-Inside the client directory, run this command.
-This will install all the dependencies and packages which are required to run this application.
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 
