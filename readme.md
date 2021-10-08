@@ -14,6 +14,29 @@ Note: Switch to experimental branch to see whole project.
 
 
 
+## Screenshots
+
+
+
+
+
+![screencapture-localhost-3000-2021-08-31-17_53_51](https://user-images.githubusercontent.com/39727166/131526399-12848c3f-b1c2-47a0-8d98-ced654cae88c.png)
+
+
+![screencapture-localhost-3000-series-2021-08-31-20_29_37](https://user-images.githubusercontent.com/39727166/131526601-7d91b36a-7e58-4834-afa8-b659713e3250.png)
+
+
+![Screenshot (267)](https://user-images.githubusercontent.com/39727166/130365552-808f191d-62fd-476e-b1e2-044aeec92488.png)
+
+![Screenshot (265)](https://user-images.githubusercontent.com/39727166/130365555-d532a78a-a25a-429c-aad2-ee2f001f78d1.png)
+
+![Screenshot (266)](https://user-images.githubusercontent.com/39727166/130365559-606900fb-3bee-4875-8736-a47ac7569593.png)
+
+![Screenshot (272)](https://user-images.githubusercontent.com/39727166/131529667-e100442a-c46f-4b57-98f4-ace8ca62cf92.png)
+
+![Screenshot (273)](https://user-images.githubusercontent.com/39727166/131529707-189ba23e-83f5-46f5-b45a-911029bfe607.png)
+
+
 ## Running the application on your development server
 
 
